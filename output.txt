@@ -1,0 +1,15 @@
+[INFO] : [2020-02-29 18:27:36] : Beacon sent by 00:14:5c:9a:86:f4 for ssid Eminent
+[INFO] : [2020-02-29 18:27:40] : Deauthentication packet sent by 00:14:5c:9a:86:f4 to 30:3a:64:e1:76:11 
+[INFO] : [2020-02-29 18:27:40] : Deauthentication packet sent by 00:14:5c:9a:86:f4 to 30:3a:64:e1:76:11 
+[INFO] : [2020-02-29 18:27:40] : Deauthentication packet sent by 00:14:5c:9a:86:f4 to 30:3a:64:e1:76:11 
+[INFO] : [2020-02-29 18:27:40] : Deauthentication packet sent by 00:14:5c:9a:86:f4 to 30:3a:64:e1:76:11 
+[ERROR] : [2020-02-29 18:27:40] : (4) Deauthentication Flood Attack detected on 30:3a:64:e1:76:11. Posing from mac: 00:14:5c:9a:86:f4
+[ERROR] : [2020-02-29 18:27:40] : (5) Deauthentication Flood Attack detected on 30:3a:64:e1:76:11. Posing from mac: 00:14:5c:9a:86:f4
+[ERROR] : [2020-02-29 18:27:40] : (6) Deauthentication Flood Attack detected on 30:3a:64:e1:76:11. Posing from mac: 00:14:5c:9a:86:f4
+[ERROR] : [2020-02-29 18:27:40] : (7) Deauthentication Flood Attack detected on 30:3a:64:e1:76:11. Posing from mac: 00:14:5c:9a:86:f4
+[ERROR] : [2020-02-29 18:27:40] : (8) Deauthentication Flood Attack detected on 30:3a:64:e1:76:11. Posing from mac: 00:14:5c:9a:86:f4
+[ERROR] : [2020-02-29 18:27:40] : (9) Deauthentication Flood Attack detected on 30:3a:64:e1:76:11. Posing from mac: 00:14:5c:9a:86:f4
+[ERROR] : [2020-02-29 18:27:40] : (10) Deauthentication Flood Attack detected on 30:3a:64:e1:76:11. Posing from mac: 00:14:5c:9a:86:f4
+[ERROR] : [2020-02-29 18:27:40] : (11) Deauthentication Flood Attack detected on 30:3a:64:e1:76:11. Posing from mac: 00:14:5c:9a:86:f4
+[ERROR] : [2020-02-29 18:27:40] : (12) Deauthentication Flood Attack detected on 30:3a:64:e1:76:11. Posing from mac: 00:14:5c:9a:86:f4
+[ERROR] : [2020-02-29 18:27:40] : (13) Deauthentication Flood Attack detected on 30:3a:64:e1:76:11. Posing from mac: 00:14:5c:9a:86:f4
