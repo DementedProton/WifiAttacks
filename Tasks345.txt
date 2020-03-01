@@ -17,7 +17,14 @@ pro-active and requesting permission to use jammers beforehand.
                           Task 4
 ===========================================================
 
+In the case of the broadcast frame, we cannot be completely certain of the
+veracity of the group key. It could be possibly be sent by a malicious user present in
+the network, as the group temporal key is shared amongst all the clients to encrypt
+multicast frames.
 
+However, the unicast frame can be verified using the MIC as the attacker will not be
+able to calculate this MIC by himself and the frame can be ascertained to be from the
+base station. Since it is also protected against replay attacks.
 
 ===========================================================
                           Task 5
