@@ -1,0 +1,27 @@
+===========================================================
+                          Task 3
+===========================================================
+India has laws that apply both federally (centrally) and statewise. Any interference
+with radio waves especially in conventionally utilized bands is strictly illegal by law
+(classified under the heading "electronic jammers") and only government endorsed entities
+are allowed to operate them (Police/Defense forces/Intelligence agencies). Any wilful
+ interference is considered as a criminal offence.
+
+For private networks, any such usage requires prior permission from one of many departments
+Furthermore, sale/rent of any equipment capable of performing as a jammer is highly
+restricted and audited. In the event of third-party interference being observed in private
+networks, the only solution seems to be is to contact the relevant authorities. Or being
+pro-active and requesting permission to use jammers beforehand.
+
+===========================================================
+                          Task 4
+===========================================================
+
+
+
+===========================================================
+                          Task 5
+===========================================================
+
+
+
