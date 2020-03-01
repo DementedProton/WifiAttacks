@@ -25,6 +25,10 @@ multicast frames.
 However, the unicast frame can be verified using the MIC as the attacker will not be
 able to calculate this MIC by himself and the frame can be ascertained to be from the
 base station. Since it is also protected against replay attacks.
+In the event of a attacker already present in the network (and aware of the PSK), he will be
+able to sniff out the Anonce, snonce from the network and since he's already aware of the MAC
+addresses involved in the system, he would be able to compute the PTK and hence would be able to sign
+messages with a MIC that would be considered valid
 
 ===========================================================
                           Task 5
